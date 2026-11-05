@@ -1,9 +1,11 @@
 body {
   background-color: rgb(255, 255, 255);
+  background-image: url("snow.png");
 }
 
+
 h1 {
-  color: rgb(4, 235, 235);
+  color: rgb(13, 13, 14);
   text-align: center;
   font-family: verdana
 }
@@ -12,17 +14,18 @@ p {
   font-family: verdana;
   font-size: 12px;
   text-align: center;
-  background-color: royalblue;
+  background-color: rgb(9, 255, 243);
+  text-indent: 50px;
 }
 
 h2 {
-  color: rgb(4, 235, 235);
+  color: rgb(0, 110, 255);
   text-align: left;
   font-family: verdana;
 }
 
 h3 {
-  color: rgb(4, 235, 235);
+  color: rgb(46, 4, 235);
   text-align: left;
   font-family: verdana;
 }
